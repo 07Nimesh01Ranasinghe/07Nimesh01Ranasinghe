@@ -1,5 +1,6 @@
+<!-- -->
 <p align="center">
-  <img src="https://blog-cdn.crowdcontent.com/crowdblog/Website-Design-Gif.gif" alt="MasterHead" width="550" height="450" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="https://blog-cdn.crowdcontent.com/crowdblog/Website-Design-Gif.gif" alt="MasterHead" width="500" height="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nimesh Ranasinghe</h1>
